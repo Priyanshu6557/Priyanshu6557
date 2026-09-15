@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Priyanshu6557/Priyanshu6557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Priyanshu Sonker
 
-Here are some ideas to get you started:
+### 💻 CSE (AI & ML) | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects • Learning DSA • Exploring AI & ML
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" alt="Tech Stack"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu6557&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Priyanshu6557&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu6557&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://github.com/Priyanshu6557">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
